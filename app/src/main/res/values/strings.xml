@@ -15,5 +15,5 @@
     <string name="Dashboard">Dashboard</string>
     <string name="user">User</string>
     <string name="continue_with_google" />
-    <string name="default_web_client_id_auth">837889080262-0trkip00tep2dbq3fh0f6pd51en0mh2u.apps.googleusercontent.com</string>
+    <string name="default_web_client_id_auth">your client id</string>
 </resources>

@@ -47,7 +47,7 @@ android:name=".FamSafetyApplication"
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDKknYoalGyc9t67i30vamqig2MSnLd9Rs" />
+            android:value="Your API Key" />
 
         <activity
             android:name=".MainActivity"
