@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837889080262",
+    "project_id": "famsafety-dd341",
+    "storage_bucket": "famsafety-dd341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837889080262:android:7eb9894088e717977950c7",
+        "android_client_info": {
+          "package_name": "com.example.famsafety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9KTTlZEsqxVDeQ0asza6obdKmb584Sx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

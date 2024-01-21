@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mail" type="id" />
+    <item name="accept" type="id" />
+    <item name="deny" type="id" />
+</resources>
