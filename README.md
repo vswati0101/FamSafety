@@ -54,7 +54,7 @@ To experience FamSafety, follow these simple steps:
 
 ## Screenshots 📷
 
-![2_20240121_234827_0001](https://github.com/vswati0101/WeatherApp2/assets/140166757/38caca55-81e3-4342-878d-9f2b59934691)
+![2_20240121_234827_0001](https://github.com/vswati0101/FamSafety/assets/140166757/823a19ae-1fdc-404e-a4f6-b93ceb0de42d)
 
 <!-- Add more screenshots if needed -->
 
